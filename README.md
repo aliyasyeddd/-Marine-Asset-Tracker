@@ -12,6 +12,7 @@ Track marine vessels, equipment &amp; maintenance logs.
 - Prepared for further API development and role-based access features
 
 ## Frontend
+
 02-06-26 Report
 
 - Vite + React frontend scaffold
